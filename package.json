@@ -1,0 +1,15 @@
+{
+  "name": "random-bits",
+  "version": "1.0.0",
+  "description": "Just a collection of little thoughts.",
+  "type": "module",
+  "main": "fetch-cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Mu <hello@joshmu.dev> (https://joshmu.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
